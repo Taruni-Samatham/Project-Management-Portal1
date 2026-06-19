@@ -150,8 +150,7 @@ All task routes are private and require a `Bearer <token>` in the `Authorization
 
 ---
 
-## Screenshots
-*
+## Screenshots*
 - **Workspace Dashboard**: Displays the statistical panels, filters, task table, and action triggers.
 - <img width="1899" height="901" alt="Screenshot 2026-06-20 000426" src="https://github.com/user-attachments/assets/b8450706-a6b7-4da2-ba54-ff2673003deb" />
   <img width="1900" height="890" alt="Screenshot 2026-06-20 000542" src="https://github.com/user-attachments/assets/d990590f-6efd-4e87-8483-550d6e65deb3" />
