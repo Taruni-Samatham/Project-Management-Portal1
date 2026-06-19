@@ -151,7 +151,14 @@ All task routes are private and require a `Bearer <token>` in the `Authorization
 ---
 
 ## Screenshots
-*(Section dedicated to showcasing the application interface)*
+*
 - **Workspace Dashboard**: Displays the statistical panels, filters, task table, and action triggers.
-- **Login / Signup Screens**: Showcases the dark glassmorphic design and client-side validators.
-- **Task Forms**: Form layout with automatic error warnings.
+- <img width="1899" height="901" alt="Screenshot 2026-06-20 000426" src="https://github.com/user-attachments/assets/b8450706-a6b7-4da2-ba54-ff2673003deb" />
+  <img width="1900" height="890" alt="Screenshot 2026-06-20 000542" src="https://github.com/user-attachments/assets/d990590f-6efd-4e87-8483-550d6e65deb3" />
+
+- **Login / Signup Screens**: 
+- <img width="1130" height="779" alt="Screenshot 2026-06-20 000503" src="https://github.com/user-attachments/assets/d717fbb6-9728-4542-a8e5-ef061293b5b3" />
+  <img width="773" height="756" alt="Screenshot 2026-06-20 000517" src="https://github.com/user-attachments/assets/ce639a7e-672f-4ccb-a0d8-fc589461ecd7" />
+
+
+- **Task Forms**: <img width="1640" height="510" alt="Screenshot 2026-06-20 000359" src="https://github.com/user-attachments/assets/d940a437-0dc9-4f61-985c-1dfa72c876ec" />
